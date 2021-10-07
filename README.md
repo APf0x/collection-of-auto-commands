@@ -11,7 +11,7 @@ if you run the script from a macro it will play in backgroung whitout opening th
 go read the script for further description
 
 
-# random immage opener
+# random-immage-opener.sh:
 for (reasons) that are beyond your understanding i wanted to make that little script that opens the first immage that is located in a directory and teh directory is chosen randomly from a list of other directories
 example: 
 user$ok cd /home/downloads/immages
