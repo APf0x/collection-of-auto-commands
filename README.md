@@ -11,3 +11,11 @@ if you run the script from a macro it will play in backgroung whitout opening th
 go read the script for further description
 
 
+# random immage opener
+for (reasons) that are beyond your understanding i wanted to make that little script that opens the first immage that is located in a directory and teh directory is chosen randomly from a list of other directories
+example: 
+user$ok cd /home/downloads/immages
+user$ok ls
+dir1 dir2 dir3 dir4(the name can be any name)
+the script takes one of these 4 dir and it opens the first immage that is located in the dir 
+(if i didnt explain my self, well go read the script)
